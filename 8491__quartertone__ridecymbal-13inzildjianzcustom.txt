@@ -1,1 +1,13 @@
 https://freesound.org/people/quartertone/packs/8491/
+
+A 1-shot sample taken of a 13-inch diameter Zildjian Z.Custom Bottom Hi-Hat cymbal, recorded with an MXL 603 close-mic and two Peavey electret condenser microphones in an XY pair. This cymbal makes a good ride cymbal for pitched-up drum and bass music. The files are all 200,000 samples in length, and crossfade-looped with the loop range [150,000...199,999]. Samplers with .WAV file header support should automatically detect the loop range. Just enable looping, set the sample player's sustain parameter to 0% and use the decay and/or release parameter to fade the cymbal out to taste.
+
+Notes for samples in this pack:
+
+Playing style:
+Bl = Bell Strike
+Bw = Bow Strike
+Ed = Edge Strike
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played

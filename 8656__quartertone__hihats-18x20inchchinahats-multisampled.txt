@@ -1,1 +1,26 @@
 https://freesound.org/people/quartertone/packs/8656/
+
+A 1-shot sample taken of a special-effects HiHat cymbal combo stack (an 18-inch Zildjian A series Ping Ride as the top cymbal, and a 20-inch Wuhan Lion series China as the bottom cymbal), recorded with an MXL 603 close-mic and two Peavey electret condenser microphones in an XY pair. The files designated "FtSpl", "HO", "SO", and "O" are all 200,000 samples in length, and crossfade-looped with the loop range [150,000...199,999]. Samplers with .WAV file header support should automatically detect the loop range. Just enable looping, set the sample player's sustain parameter to 0% and use the decay and/or release parameter to fade the cymbals out to taste. A MIDI continuous-control number can be designated to modulate Amplitude Envelope Decay and/or Release parameters, as well as selection of the MIDI key to be triggered, corresponding to the strike zone/openness level of the instrument in appropriate hardware or software devices.
+
+Notes for samples in this pack:
+
+Playing style:
+
+Cymbal strike types:
+
+Bl = Bell Strike
+Bw = Bow Strike
+E = Edge Strike
+FtChk = Foot "Chick" sound (Pedal closes the cymbals and remains closed)
+FtSpl = Foot "Splash" sound (Pedal closes the cymbals and is immediately released for the cymbals to decay naturally)
+
+Foot-control types for stick strikes:
+
+Cl = Tightly Closed
+SC = Semi-Closed
+HO = Half-Open
+SO = Semi-Open
+O = Fully Open
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played

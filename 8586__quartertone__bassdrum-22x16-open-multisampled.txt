@@ -1,1 +1,16 @@
 https://freesound.org/people/quartertone/packs/8586/
+
+A 1-shot sample taken of an unmuffled 22-inch diameter, 16-inch deep Remo Mastertouch bass drum, recorded with an internally mounted Equitek E100 close-mic and two Peavey electret condenser microphones in an XY pair. The drum was fitted with a Remo suede ambassador batter head and a Remo black logo front head with a 6-inch port. The instrument was played with a foot pedal-mounted nylon beater. The files are all 150,000 samples in length, and crossfade-looped with the loop range [100,000...149,999]. Samplers with .WAV file header support should automatically detect the loop range. Just enable looping, set the sample player's sustain parameter to 0% and use the decay and/or release parameter to fade the cymbal out to taste.
+
+Notes for samples in this pack:
+
+Tuning:
+LP = Low Pitch
+MLP = Medium-Low Pitch
+MP = Medium Pitch
+MHP = Medium-High Pitch
+HP = High Pitch
+VHP = Very High Pitch
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played

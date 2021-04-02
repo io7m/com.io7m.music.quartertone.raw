@@ -1,1 +1,13 @@
 https://freesound.org/people/quartertone/packs/12776/
+
+A 1-shot sample taken of an 8-inch diameter Zildjian EFX#1 Bell/Splash cymbal, recorded with an MXL 603 close-mic and two Peavey electret condenser microphones in an XY pair.
+
+Notes for samples in this pack:
+
+Playing style:
+Bl = Bell Strike
+Bw = Bow Strike
+Ed = Edge Strike
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played

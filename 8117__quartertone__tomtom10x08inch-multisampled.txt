@@ -1,1 +1,21 @@
 https://freesound.org/people/quartertone/packs/8117/
+
+A 1-shot sample taken of a 10-inch diameter, 8-inch deep tom-tom, recorded with an Equitek E100 close-mic and two
+Peavey electret condenser microphones in an XY pair.
+Notes for samples in this pack:
+Tuning:
+LP = Low Pitch
+MP = Medium Pitch
+HP = High Pitch
+VHP = Very High Pitch
+
+Playing style:
+Hd = Head Strike
+HdC = Head-Center Strike
+HdE = Head-Edge Strike
+RS = Rimshot (Simultaneous Head and Rim) Strike
+Rm = Rim Strike
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played
+

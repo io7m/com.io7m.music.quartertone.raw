@@ -1,1 +1,22 @@
 https://freesound.org/people/quartertone/packs/8767/
+
+A 1-shot sample taken of an 8-inch diameter, 8-inch deep tomtom, recorded with an Equitek E100 close-mic and two Peavey electret condenser microphones in an XY pair. The drum was fitted with a Remo coated ambassador head on top and a Remo clear diplomat head on bottom.
+
+Notes for samples in this pack:
+
+Tuning:
+VLP = Very Low Pitch
+LP = Low Pitch
+MLP = Medium-Low Pitch
+MP = Medium Pitch
+MHP = Medium-High Pitch
+HP = High Pitch
+VHP = Very High Pitch
+
+Playing style:
+Hd = Head Strike
+RS = Rimshot (Simultaneous head and rim) Strike
+Rm = Rim Strike
+
+Velocity:
+v## =the number designation for the velocity with which the instrument was played
